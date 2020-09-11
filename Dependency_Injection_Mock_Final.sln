@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dependency_Injection_Mock_Final", "Dependency_Injection_Mock_Final\Dependency_Injection_Mock_Final.csproj", "{8591C8EB-BB72-4363-AD80-5702F384DD38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CTest", "CTest\CTest.csproj", "{8C9F9B82-4EAA-4CC2-B3CF-C51C30320408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8591C8EB-BB72-4363-AD80-5702F384DD38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8591C8EB-BB72-4363-AD80-5702F384DD38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8591C8EB-BB72-4363-AD80-5702F384DD38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8591C8EB-BB72-4363-AD80-5702F384DD38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9F9B82-4EAA-4CC2-B3CF-C51C30320408}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9F9B82-4EAA-4CC2-B3CF-C51C30320408}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9F9B82-4EAA-4CC2-B3CF-C51C30320408}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9F9B82-4EAA-4CC2-B3CF-C51C30320408}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {370A982E-CF24-4B1E-A60F-8B260649CADC}
+	EndGlobalSection
+EndGlobal
